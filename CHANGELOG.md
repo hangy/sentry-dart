@@ -6,6 +6,12 @@
 
 - Replay JNI usage with `SentryFlutterPlugin` ([#3036](https://github.com/getsentry/sentry-dart/pull/3036), [#3039](https://github.com/getsentry/sentry-dart/pull/3039))
 
+### Dependencies
+
+- Bump Android SDK from v8.12.0 to v8.16.0 ([#32](https://github.com/hangy/sentry-dart/pull/32))
+  - [changelog](https://github.com/getsentry/sentry-java/blob/main/CHANGELOG.md#8160)
+  - [diff](https://github.com/getsentry/sentry-java/compare/8.12.0...8.16.0)
+
 ## 9.3.0
 
 ### Breaking Change (Tooling)
