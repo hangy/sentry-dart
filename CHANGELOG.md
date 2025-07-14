@@ -12,6 +12,12 @@
 - Remove `SentryTimingsCallback` and use Flutter's `TimingsCallback` instead ([#3054](https://github.com/getsentry/sentry-dart/pull/3054))
 - Remove unused native frames integration ([#3053](https://github.com/getsentry/sentry-dart/pull/3053))
 
+### Dependencies
+
+- Bump Android SDK from v8.13.2 to v8.17.0 ([#33](https://github.com/hangy/sentry-dart/pull/33))
+  - [changelog](https://github.com/getsentry/sentry-java/blob/main/CHANGELOG.md#8170)
+  - [diff](https://github.com/getsentry/sentry-java/compare/8.13.2...8.17.0)
+
 ## 9.4.0
 
 ### Fixes
